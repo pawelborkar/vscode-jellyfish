@@ -2,18 +2,21 @@
 
 # JellyFish 
 
-![Logo](https://raw.githubusercontent.com/PawelBorkar/vscode-JellyFish/star/assets/jellyfish.png)
-
-*The Theme you always wanted but never had.*
+<img src="https://raw.githubusercontent.com/PawelBorkar/vscode-JellyFish/star/assets/jellyfish.png" height="190px" width="190px" style="border-radius:50%;">
 
 <br>
+<br>
+
+> *Theme your code editor will love*
+
+</div>
 
 <br>
 
 ![JellyFish](https://img.shields.io/badge/Theme-JellyFish-%23ff0055)
 ![GitHub](https://img.shields.io/github/license/pawelborkar/vscode-JellyFish?color=%23ff0055&label=License&logo=License&style=flat)
 ![Message](https://img.shields.io/badge/I%20%E2%9D%A4%20-OpenSource-%23ff0055)
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/pawelborkar.JellyFish?color=%23ff0055&label=Latest&logo=Latest&logoColor=%23ff0055)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/pawelborkar.jellyfish?color=%23ff0055&label=Latest&logo=Latest&logoColor=%23ff0055)
 ---
 
 <br>
