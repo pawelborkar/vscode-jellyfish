@@ -1,0 +1,40 @@
+{
+    "name": "jellyfish",
+    "displayName": "JellyFish Theme",
+    "description": "JellyFish: Theme your code editor will love.",
+    "version": "0.0.1",
+    "publisher": "PawelBorkar",
+    "license": "Apache-2.0 License",
+    "author": {
+        "name": "Pawel Borkar"
+    },
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes",
+        "Other"
+    ],
+    "icon": "assets/jellyfish.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "JellyFish",
+                "uiTheme": "vs-dark",
+                "path": "./themes/JellyFish Theme-color-theme.json"
+            }
+        ]
+    },
+    "bugs": {
+        "url": "https://github.com/pawelborkar/vscode-jellyfish/issues",
+        "email": "pawelbr@pm.me"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pawelborkar/vscode-jellyfish.git"
+    },
+    "homepage": "https://github.com/pawelborkar/vscode-jellyfish/blob/star/README.md",
+    "dependencies": {
+        "vsce": "^1.88.0"
+    }
+}
