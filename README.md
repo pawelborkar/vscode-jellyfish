@@ -2,7 +2,7 @@
 
 # JellyFish 
 
-![Logo](https://raw.githubusercontent.com/PawelBorkar/vscode-JellyFish/star/assets/JellyFish.png)
+![Logo](https://raw.githubusercontent.com/PawelBorkar/vscode-JellyFish/star/assets/jellyfish.png)
 
 *The Theme you always wanted but never had.*
 
@@ -18,19 +18,19 @@
 
 <br>
 
-![Preview](https://raw.githubusercontent.com/PawelBorkar/vscode-JellyFish/star/assets/Preview1.png)
+![Preview](https://raw.githubusercontent.com/PawelBorkar/vscode-JellyFish/star/assets/Preview1.PNG)
 
 <br>
 
-![Preview](https://raw.githubusercontent.com/PawelBorkar/vscode-JellyFish/star/assets/Preview2.png)
+![Preview](https://raw.githubusercontent.com/PawelBorkar/vscode-JellyFish/star/assets/Preview2.PNG)
 
 <br>
 
-![Preview](https://raw.githubusercontent.com/PawelBorkar/vscode-JellyFish/star/assets/Preview4.png)
+![Preview](https://raw.githubusercontent.com/PawelBorkar/vscode-JellyFish/star/assets/Preview4.PNG)
 
 <br>
 
-![Preview](https://raw.githubusercontent.com/PawelBorkar/vscode-JellyFish/star/assets/Preview3.png)
+![Preview](https://raw.githubusercontent.com/PawelBorkar/vscode-JellyFish/star/assets/Preview3.PNG)
 
 <br>
 
