@@ -27,16 +27,20 @@
 		"editorInfo.border":"#ff4800",
 		"editorLineNumber.foreground":"#8686867c",
 		"editorLineNumber.activeForeground":"#ffffffb2",
-
+		"editorGroupHeader.tabsBackground":"#00002c",
 		"diffEditor.insertedTextBackground":"#20a5842d",
 
+		"editor.findRangeHighlightBackground": "#34294f1a",
+		"editorWidget.background": "#171520dc",
+		"focusBorder": "#1f212b",
+		"list.inactiveFocusBackground": "#2a213999",
+		"peekViewResult.selectionBackground": "#2a213980",
 
 		/*************************  BREADCRUMS  *************************/
 
 		"breadcrumb.foreground":"#6e6e6e",
 		"breadcrumb.activeSelectionForeground":"#ff0080",
-		"breadcrumbPicker.background":"#292929a4",
-
+		"breadcrumbPicker.background":"#28002b",
 
 		/*************************  TITLE-BAR  *************************/
 
@@ -44,7 +48,6 @@
 		"titleBar.activeForeground": "#999999a8",
 		"titleBar.inactiveForeground":"#ffd900",
 
-		
 		/*************************  PANEL  *************************/
 		"panel.background": "#0f0021",
         "panel.border": "#ff4800",
@@ -53,7 +56,7 @@
         "panelTitle.inactiveForeground": "#ffffff",
 		"panel.dropBorder":"#ff0000",
 
-
+		
 		/*************************  TERMINAL  *************************/
 
 		"terminal.foreground":"#FF92A5",
@@ -79,6 +82,8 @@
 		/*************************  DROPDOWN  *************************/
 
 		"dropdown.background": "#28002b",
+		// "dropdown.background": "#232530",
+        "dropdown.listBackground": "#2a2139",
 
 		/*************************  INPUT  *************************/
 		
@@ -106,7 +111,8 @@
 
 		/*************************  MENU  *************************/
 
-		"menu.background": "#000000bb",
+		// "menu.background": "#000000bb",
+		"menu.background": "#010033c7",
 		"menu.selectionBackground": "#fd009c56",
 		"menubar.selectionBackground": "#4d4d4d4f",
 		"menu.border":"#bbbbbb46",
@@ -136,7 +142,6 @@
 		"tab.hoverBorder":"#ffffff6c",
 		"tab.hoverBackground": "#00001d",
 		
-	
 		/*************************  LIST  *************************/
 
 		"list.hoverForeground":"#ffc400",	
