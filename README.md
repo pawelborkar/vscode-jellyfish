@@ -29,11 +29,15 @@
 
 <br>
 
+![Preview](https://raw.githubusercontent.com/PawelBorkar/vscode-JellyFish/star/assets/Preview3.PNG)
+
+<br>
+
 ![Preview](https://raw.githubusercontent.com/PawelBorkar/vscode-JellyFish/star/assets/Preview4.PNG)
 
 <br>
 
-![Preview](https://raw.githubusercontent.com/PawelBorkar/vscode-JellyFish/star/assets/Preview3.PNG)
+![Preview](https://raw.githubusercontent.com/PawelBorkar/vscode-JellyFish/star/assets/Preview5.PNG)
 
 <br>
 
