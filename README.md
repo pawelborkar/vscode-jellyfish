@@ -2,7 +2,7 @@
 
 # JellyFish 
 
-<img src="https://raw.githubusercontent.com/PawelBorkar/vscode-JellyFish/star/assets/jellyfish.png" height="190px" width="190px" style="border-radius:50%;">
+<img src="https://raw.githubusercontent.com/pawelborkar/vscode-JellyFish/star/assets/jellyfish.png" height="190px" width="190px" style="border-radius:50%;">
 
 <br>
 <br>
@@ -21,19 +21,23 @@
 
 <br>
 
-![Preview](https://raw.githubusercontent.com/PawelBorkar/vscode-JellyFish/star/assets/Preview1.PNG)
+![Preview](https://raw.githubusercontent.com/pawelborkar/vscode-JellyFish/star/assets/Preview1.PNG)
 
 <br>
 
-![Preview](https://raw.githubusercontent.com/PawelBorkar/vscode-JellyFish/star/assets/Preview2.PNG)
+![Preview](https://raw.githubusercontent.com/pawelborkar/vscode-JellyFish/star/assets/Preview2.PNG)
 
 <br>
 
-![Preview](https://raw.githubusercontent.com/PawelBorkar/vscode-JellyFish/star/assets/Preview4.PNG)
+![Preview](https://raw.githubusercontent.com/pawelborkar/vscode-JellyFish/star/assets/Preview3.PNG)
 
 <br>
 
-![Preview](https://raw.githubusercontent.com/PawelBorkar/vscode-JellyFish/star/assets/Preview3.PNG)
+![Preview](https://raw.githubusercontent.com/pawelborkar/vscode-JellyFish/star/assets/Preview4.PNG)
+
+<br>
+
+![Preview](https://raw.githubusercontent.com/pawelborkar/vscode-JellyFish/star/assets/Preview5.PNG)
 
 <br>
 
