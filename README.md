@@ -75,6 +75,4 @@
 
 <br>
 
-_Copyright (c) 2021 Pawel Borkar_
-
----
+_Copyright (c) 2022 Pawel Borkar_
