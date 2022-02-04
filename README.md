@@ -26,7 +26,8 @@
 
 <br>
 
-![Button](https://raw.githubusercontent.com/pawelborkar/vscode-JellyFish/star/assets/bmc-button.png)
+<a href="https://www.buymeacoffee.com/borkar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 <br>
 
 ![Preview](https://raw.githubusercontent.com/pawelborkar/vscode-JellyFish/star/assets/Preview1.PNG)
