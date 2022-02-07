@@ -9,6 +9,12 @@
 
 > _Theme your code editor will love_
 
+<br>
+
+### Wanna give a token of Thanks and Support Me?
+
+<a href="https://www.buymeacoffee.com/borkar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 </div>
 
 <br>
@@ -21,12 +27,6 @@
 ---
 
 <br>
-
-### Wanna give a token of Thanks and Support Me?
-
-<br>
-
-<a href="https://www.buymeacoffee.com/borkar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <br>
 
